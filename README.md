@@ -9,7 +9,7 @@ Papers, benchmarks, and tools for agents that restore, enhance, or upscale image
 
 [Restoration](#agentic-low-level-vision) · [Benchmarks](#benchmarks--datasets) · [Toolboxes](#toolboxes--platforms) · [Contributing](#contributing)
 
-**30 papers** · [Paper notes and figures](docs/paper-notes.md) · [October verification record](docs/verification-2026-10-25.md)
+**32 papers** · [Paper notes and figures](docs/paper-notes.md) · [October verification record](docs/verification-2026-10-25.md)
 
 Preprint and submission labels do not indicate acceptance. A dash in the Code column means no code link is listed.
 
@@ -23,6 +23,9 @@ Newest first within each year, by publication month or original arXiv posting da
 
 | Paper | Venue | Link | Code |
 |---|---|---|---|
+| AURA: An Autonomous Retouching Agent with Photographic Visual Thinking<br>Shuaizheng Liu *et al.* | NeurIPS 2026 † | [NeurIPS](https://neurips.cc/virtual/2026/poster/148451) · [Author page](https://web.comp.polyu.edu.hk/cslzhang/) | — |
+| OPERA: An Agent for Image Restoration with End-to-End Planning–Execution Optimization<br>Feng Zhu *et al.* | NeurIPS 2026 | [NeurIPS](https://neurips.cc/virtual/2026/poster/149311) · [arXiv](https://arxiv.org/abs/2605.22104) · [PDF](https://arxiv.org/pdf/2605.22104) | [Code](https://github.com/xsyshuishui/Opera) |
+| SIR-Agent: Skill-Augmented Image Restoration Agent with Recursive Self-Improvement<br>Yijian Wang *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2611.27285) · [HTML](https://arxiv.org/html/2611.27285v1) | — |
 | PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration<br>Zhaocheng Yu *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2611.24915) · [HTML](https://arxiv.org/html/2611.24915v1) | — |
 | RecurIR: Learning When and How to Revise Restoration Policies via Recursive Self-Improvement<br>Hu Gao *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2611.18006) · [HTML](https://arxiv.org/html/2611.18006v1) | — |
 | Look Before You Restore: Learning to Predict Before Acting for Agentic Image Restoration (PreActIR)<br>Xu Zhang *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2610.20384) · [HTML](https://arxiv.org/html/2610.20384v1) | [Code](https://github.com/House-yuyu/PreActIR) |
@@ -42,7 +45,6 @@ Newest first within each year, by publication month or original arXiv posting da
 | Beyond Sequential Tools: A Unified VLM Agent System for Photographic Post-Processing via Dynamic Multi-Expert Fusion<br>Honglin Xiong *et al.* | CVPR 2026 † | [CVF](https://openaccess.thecvf.com/content/CVPR2026/html/Xiong_Beyond_Sequential_Tools_A_Unified_VLM_Agent_System_for_Photographic_CVPR_2026_paper.html) | — |
 | DiTTo: Scalable Order-aware All-in-One Image Restoration Agent<br>Seungho Choi, Jihyong Oh | Preprint 2026 | [arXiv](https://arxiv.org/abs/2605.30915) · [Project](https://cmlab-korea.github.io/DiTTo/) | [Code](https://github.com/CMLab-Korea/DiTTo-arxiv) |
 | EvoIR-Agent: Self-Evolving Image Restoration Agentic System via Experience-Driven Learning<br>Kailin Zhuang *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2605.22208) · [PDF](https://arxiv.org/pdf/2605.22208) | [Code](https://github.com/rightleft-123/EvoIRAgent) |
-| OPERA: An Agent for Image Restoration with End-to-End Joint Planning-Execution Optimization<br>Feng Zhu *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2605.22104) · [PDF](https://arxiv.org/pdf/2605.22104) | [Code](https://github.com/xsyshuishui/Opera) |
 | Multi-Agent Image Restoration (MAIR)<br>Xu Jiang *et al.* | IJCV 2026 | [arXiv](https://arxiv.org/abs/2503.09403) · [Project](https://villa.jianzhang.tech/publication/200604/) · [Journal](https://link.springer.com/article/10.1007/s11263-026-02792-5) | — |
 | TIR-Agent: Training an Explorative and Efficient Agent for Image Restoration<br>Guoli Jia *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2603.27742) · [PDF](https://arxiv.org/pdf/2603.27742) · [HTML](https://arxiv.org/html/2603.27742) | — |
 | PaAgent: Portrait-Aware Image Restoration Agent via Subjective-Objective Reinforcement Learning<br>Yijian Wang *et al.* | Preprint 2026 | [arXiv](https://arxiv.org/abs/2603.17055) · [Project](https://wyjgr.github.io/PaAgent.html) | — |
